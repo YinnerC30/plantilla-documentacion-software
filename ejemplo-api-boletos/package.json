@@ -1,0 +1,12 @@
+{
+  "name": "api-boletos",
+  "version": "1.0.0",
+  "description": "Proyecto de ejemplo: API de venta de boletos de bus, documentada con las plantillas del repositorio.",
+  "type": "module",
+  "scripts": {
+    "start": "node src/servidor.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" },
+  "license": "MIT"
+}
